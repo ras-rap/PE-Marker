@@ -11,7 +11,10 @@ const Footer: React.FC = () => {
           className="text-blue-500 hover:underline"
         >
           Ras_rap
-        </a>.
+        </a>. View the source on {" "}
+        <a href="https://github.com/ras-rap/PE-Marker" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+          GitHub
+        </a>
       </div>
     </footer>
   );

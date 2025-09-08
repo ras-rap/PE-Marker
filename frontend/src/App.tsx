@@ -5,6 +5,7 @@ import HowItWorks from "./components/HowItWorks";
 import SearchVote from "./components/SearchVote";
 import Footer from "./components/Footer";
 import AuthCallback from "./pages/AuthCallback";
+import Download  from "./components/Download";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
               <>
                 <About />
                 <HowItWorks />
+                <Download />
                 <SearchVote />
               </>
             }
