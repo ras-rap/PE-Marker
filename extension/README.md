@@ -14,6 +14,9 @@ No data is collected other than the channel ids, their display name, and your vo
 
 The extension can be found at https://addons.mozilla.org/en-US/firefox/addon/private-equity-marker/ for Firefox, and for Chrome can be found in github releases, or here https://github.com/ras-rap/PE-Marker/releases/download/Main/Chrome.zip (I can be bothered to pay Google for this extension)
 
+Tutorial on how to install chrome extension from zip
+https://ui.vision/howto/install-chrome-extension-from-file
+
 ## Building the script
 
 First, cd into the main extension folder
